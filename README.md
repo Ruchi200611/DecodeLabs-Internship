@@ -17,7 +17,7 @@
 - SQL Insights
 - Power BI Visualizations
 
-📄 [Project 2 Report](Project-2/Project2_Report.pdf)
+
 
 ### Project 3 - SQL Analysis
 
@@ -25,7 +25,7 @@
 - COUNT, SUM, AVG
 - HAVING Clause
 
-📄 [Project 3 Report](Project-3/Project3_Report.pdf)
+
 
 ### Project 4 - Power BI Dashboard
 
@@ -34,6 +34,5 @@
 - Product Performance
 - Referral Source Analysis
 
-📄 [Project 4 Report](Project-4/Project4_Report.pdf)
 
 
