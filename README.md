@@ -9,7 +9,7 @@
 - Duplicate Validation
 - Data Standardization
 
-📄 📄 [Project 1 Report](project1.pdf)
+📄 📄 [Project 1 Report](Project 1.pdf)
 ### Project 2 - Exploratory Data Analysis (EDA)
 
 - Descriptive Statistics
